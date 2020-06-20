@@ -1,0 +1,13 @@
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.exe
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.deps.json
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.runtimeconfig.json
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.runtimeconfig.dev.json
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.dll
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.csprojAssemblyReference.cache
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.AssemblyInfoInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.AssemblyInfo.cs
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.dll
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.genruntimeconfig.cache
